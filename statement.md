@@ -1,9 +1,6 @@
-public class main {
-
+public class MyFirstjava {
 public static void main(String[] args); {
-String message = "Hi Harris";
+String message = "my name is Harris";
 System.out.println(message);
-
 }
-
 }
